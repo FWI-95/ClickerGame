@@ -1,0 +1,15 @@
+c:\Users\FWinkler\Documents\Repos\ClickerGame\ClickerGame\obj\Debug\net6.0\ClickerGame.csproj.AssemblyReference.cache
+c:\Users\FWinkler\Documents\Repos\ClickerGame\ClickerGame\obj\Debug\net6.0\ClickerGame.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\FWinkler\Documents\Repos\ClickerGame\ClickerGame\obj\Debug\net6.0\ClickerGame.AssemblyInfoInputs.cache
+c:\Users\FWinkler\Documents\Repos\ClickerGame\ClickerGame\obj\Debug\net6.0\ClickerGame.AssemblyInfo.cs
+c:\Users\FWinkler\Documents\Repos\ClickerGame\ClickerGame\obj\Debug\net6.0\ClickerGame.csproj.CoreCompileInputs.cache
+c:\Users\FWinkler\Documents\Repos\ClickerGame\ClickerGame\bin\Debug\net6.0\ClickerGame.exe
+c:\Users\FWinkler\Documents\Repos\ClickerGame\ClickerGame\bin\Debug\net6.0\ClickerGame.deps.json
+c:\Users\FWinkler\Documents\Repos\ClickerGame\ClickerGame\bin\Debug\net6.0\ClickerGame.runtimeconfig.json
+c:\Users\FWinkler\Documents\Repos\ClickerGame\ClickerGame\bin\Debug\net6.0\ClickerGame.dll
+c:\Users\FWinkler\Documents\Repos\ClickerGame\ClickerGame\bin\Debug\net6.0\ref\ClickerGame.dll
+c:\Users\FWinkler\Documents\Repos\ClickerGame\ClickerGame\bin\Debug\net6.0\ClickerGame.pdb
+c:\Users\FWinkler\Documents\Repos\ClickerGame\ClickerGame\obj\Debug\net6.0\ClickerGame.dll
+c:\Users\FWinkler\Documents\Repos\ClickerGame\ClickerGame\obj\Debug\net6.0\ref\ClickerGame.dll
+c:\Users\FWinkler\Documents\Repos\ClickerGame\ClickerGame\obj\Debug\net6.0\ClickerGame.pdb
+c:\Users\FWinkler\Documents\Repos\ClickerGame\ClickerGame\obj\Debug\net6.0\ClickerGame.genruntimeconfig.cache
